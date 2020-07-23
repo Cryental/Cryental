@@ -22,6 +22,7 @@ I specialise in C, C++, C#, Ruby, Objective-C, Python, PHP and Assembly.
 I like to learn many languages in order to communicate more effectively and fluently with businesses.
 
 - English (Native)
+- Japanese (Advanced)
 - Korean (Advanced)
 - Russian (Intermediate)
-- Japanese (Intermediate)
+- Spanish (Intermediate)
