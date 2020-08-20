@@ -26,3 +26,4 @@ I like to learn many languages in order to communicate more effectively and flue
 - Korean (Advanced)
 - Russian (Intermediate)
 - Spanish (Intermediate)
+- Chinese (Beginner)
