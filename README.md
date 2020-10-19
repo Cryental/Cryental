@@ -32,5 +32,7 @@ I like to learn many languages in order to communicate more effectively and flue
 ### Social Links
 
 Website: https://cryental.dev
+
 Twitch: https://twitch.tv/RekonChan
+
 Cryental's Adventure Story: https://cryental.dev/character/story
