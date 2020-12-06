@@ -7,7 +7,7 @@ My profession is software engineering. I have also been actively learning about 
 
 ### Knowledge
 
-I specialise in C, C++, C#, Ruby, Objective-C, Python, PHP and Assembly.
+I can work with C, C++, C#, Ruby, Objective-C, Python, PHP and Assembly.
 
 - Software Programmer
 - Reverse Engineering
