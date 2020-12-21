@@ -33,8 +33,4 @@ I like to learn many languages in order to communicate more effectively and flue
 
 Website: https://cryental.dev
 
-Twitch: https://twitch.tv/RekonChan
-
-SoundCloud: https://soundcloud.com/cure-peace-175293113
-
 Cryental's Adventure Story: https://cryental.dev/character/story
