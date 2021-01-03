@@ -51,4 +51,4 @@ Character Images: https://cryental.dev/character/images
 
 
 ### Copyrights
-All copyrights for "Cryental" including its character design, story and images belong to cryental.dev. I do not allow the use of images to other sources without permission, including profile images. Open source projects on GitHub are licensed by GPL-3, MIT, or others (Check project licenses) and If I used the service provided by the website, you will need to show "cryental.dev" in your software.
+All copyrights for "Cryental" including its character design, story and images belong to cryental.dev. I do not allow the use of images to other sources without permission, including profile images. Open source projects on GitHub are licensed by GPL-3, MIT, or others (Check project licenses) and If you used the service provided by the website, you will need to show "cryental.dev" in your software.
