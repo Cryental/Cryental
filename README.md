@@ -16,7 +16,7 @@ I work as a senior software engineer and server administrator and I love chocola
 
 I'm trying to commit high quality open source works to GitHub page, and working on open source software is amazing!
 
-If you enjoy any of the software I am creating, I will be very happy with your donations on my website!
+If you enjoy any of the software I am creating, I will be very happy for your donations on my website!
 
 
 ### Knowledge
