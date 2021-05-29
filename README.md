@@ -1,3 +1,5 @@
+![cryental](https://user-images.githubusercontent.com/44664655/120077798-f7041280-c0cd-11eb-9154-c2966ebddf51.png)
+
 ### Introduction
 
 My name is Cryental, although many people tell me I look much older :)
