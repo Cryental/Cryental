@@ -1,4 +1,4 @@
-![cryental](https://user-images.githubusercontent.com/44664655/120077798-f7041280-c0cd-11eb-9154-c2966ebddf51.png)
+![cryental](https://user-images.githubusercontent.com/44664655/120835959-d5e86980-c586-11eb-8c7f-6a55b2b7c621.jpg)
 
 ### Introduction
 
