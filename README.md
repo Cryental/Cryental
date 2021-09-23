@@ -6,7 +6,9 @@ My name is Cryental, although many people tell me I look much older :)
 
 I work as a senior software engineer and server administrator and I love chocolate croissants and everything that is pink, hence the hair :P
 
-**I'm creating following things:**
+I worked with many big projects with several agencies, now I'm focusing to PHP more :D
+
+**I'm created/maintaining following things:**
 
 - [Anime Database API](https://cryental.dev/services/anime/api/): The best free and open anime RESTful API without rate limiting.
 - [GeoIP Locations](https://cryental.dev/services/geolocation/): Locate and identify website visitors.
@@ -53,4 +55,4 @@ Character Images: https://cryental.dev/character/images
 
 
 ### Copyrights
-All copyrights for "Cryental" including its character design, story and images belong to cryental.dev. I do not allow the use of images to other sources without permission, including profile images. Open source projects on GitHub are licensed by GPL-3, MIT, or others (Check project licenses) and If you used the service provided by the website, you will need to show "cryental.dev" in your software.
+All copyrights for "Cryental" with its character design, story and images belong to cryental.dev. I do not allow the use of images to other sources without permission, including profile images. If you have used the services provided by the website for free, you must show "cryental.dev" in the software.
