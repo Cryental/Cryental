@@ -10,9 +10,9 @@ I worked with many big projects with several agencies, now I'm focusing to PHP m
 
 **I'm created/maintaining following things:**
 
-- [Anime Database API](https://cryental.dev/services/anime/api/): The best free and open anime RESTful API without rate limiting.
-- [GeoIP Locations](https://cryental.dev/services/geolocation/): Locate and identify website visitors.
-- [Keycipher Enterprise](https://cryental.dev/services/licensing/): Licensing system with multiple and more powerful features.
+- [Anime Database API](https://cryental.net/services/anime/api/): The best free and open anime RESTful API without rate limiting.
+- [GeoIP Locations](https://cryental.net/services/geolocation/): Locate and identify website visitors.
+- [Keycipher Enterprise](https://cryental.net/services/licensing/): Licensing system with multiple and more powerful features.
 - [MemoryJSON (AmberJSON)](https://github.com/Cryental/MemoryJSON): Read/write memory engine with specific designed JSON file for game trainers.
 - [Kayla.NET](https://github.com/Cryental/Kayla.NET): Subtitle converter with multiple supported formats.
 - [OhysCrawler.Py](https://github.com/Cryental/OhysCrawler.Py): Ohys-raws unofficial crawler engine with Python.
