@@ -1,4 +1,5 @@
-![cryental](https://user-images.githubusercontent.com/44664655/120835959-d5e86980-c586-11eb-8c7f-6a55b2b7c621.jpg)
+![](https://github.com/Cryental/Cryental/assets/44664655/2fd6f859-f369-4222-a9a7-902690e7dab6)
+
 
 ### Introduction
 
